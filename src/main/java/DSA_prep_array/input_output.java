@@ -1,6 +1,5 @@
-package DSA_prepration;
+package DSA_prep_array;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class input_output {

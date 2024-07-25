@@ -1,6 +1,5 @@
-package DSA_prepration;
+package DSA_prep_array;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class two_D_array {

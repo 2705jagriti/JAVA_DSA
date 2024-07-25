@@ -1,6 +1,4 @@
-package DSA_prepration;
-
-import com.sun.jdi.PathSearchingVirtualMachine;
+package DSA_prep_array;
 
 import java.util.Arrays;
 import java.util.Scanner;
