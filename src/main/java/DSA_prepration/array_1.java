@@ -36,17 +36,24 @@ int[] array = new int[4];
 
      // AARAY WITH INPUT
 
-        Scanner in = new Scanner(System.in);
-        System.out.println("Enter the length of the array");
-        int n = in.nextInt();
-        int[] arr4 = new int[n];
-        for (int i = 0; i <n ; i++) {
-            arr4[i] = in.nextInt();
+        //Scanner in = new Scanner(System.in);
+//       // CONVERT ARRAY TO STRING
 
+ //          int n = in.nextInt();
+//           int[] arr4 = new int[n];
+//           for (int i = 0; i <n ; i++) {
+//                  arr4[i] = in.nextInt();
+//
+//
+//                  //System.out.println("Enter the length of the array");
+//        }
+//             //System.out.println(Arrays.toString(arr4));
 
-        }
-        System.out.println(Arrays.toString(arr4));
-
+int [] arr5 ={1,2,3,4,5};
+           for (int i = 0; i <arr5.length ; i++) {
+                  System.out.println(arr5[i]);
+           }
+           System.out.println( Arrays.toString(arr5));
 
 
 
