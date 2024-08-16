@@ -1,9 +1,7 @@
-package org.example;
+package DSA_prep_array;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.stream.StreamSupport;
 
 public class array  {
     public static void main(String[] args) {

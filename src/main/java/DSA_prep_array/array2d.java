@@ -1,4 +1,4 @@
-package org.example;
+package DSA_prep_array;
 
 import java.util.Arrays;
 import java.util.Scanner;
