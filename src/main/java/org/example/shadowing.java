@@ -1,7 +1,7 @@
 package org.example;
 
 public class shadowing {
-    static int x =90;
+    static int x =90;// hum static lga ke constructor se phle variable declare kr sakty hai
     public static void main(String[] args) {
         System.out.println(x);
         int x = 40;

@@ -13,6 +13,7 @@ public class nameSwap {
 
     private static void changeName(String naam) {
         String changedName = "kunal";
+        System.out.println(changedName);
 
 
     }
