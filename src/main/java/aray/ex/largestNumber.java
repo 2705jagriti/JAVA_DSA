@@ -10,7 +10,7 @@ public class largestNumber {
         int[] arr = new int[n];
 
         System.out.println("Enter element of array");
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < arr.length; i++) {
             arr[i]=in.nextInt();
 
         }//to find the max value
