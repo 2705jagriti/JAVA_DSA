@@ -1,5 +1,6 @@
 package Revision;
 
+import javax.swing.*;
 import java.util.Scanner;
 
 public class ex_2 {
@@ -10,10 +11,12 @@ public class ex_2 {
     }
     static boolean shorted (int[] arr){
             for (int i = 0; i < arr.length ; i++) {
-                int a=arr[0];
-                int b = arr[1];
-                if(a<b){
-                    return true ;
+                for (int j = i; j < arr.length ; j++) {
+                    int a=arr[0];
+                    int b = arr[1];
+                    if(a<b){
+                        return true ;
+                    }
                 }
             }
             return false;
