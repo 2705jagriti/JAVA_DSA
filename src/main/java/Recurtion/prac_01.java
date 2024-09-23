@@ -1,6 +1,6 @@
 package Recurtion;
 
-public class rec_01 {
+public class prac_01 {
     public static void main(String[] args) {
         print_number(1);
     }

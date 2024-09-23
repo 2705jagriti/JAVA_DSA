@@ -1,6 +1,6 @@
 package Recurtion;
 
-public class intro_1 {
+public class massage_intro {
     public static void main(String[] args) {
 message();
     }
